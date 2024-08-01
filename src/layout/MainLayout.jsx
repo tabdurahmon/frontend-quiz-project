@@ -12,11 +12,11 @@ function MainLayout() {
         <Outlet />
       </main>
       <footer>
-        <a href="https://www.youtube.com/@akhrorweb" target="_blank">
+        <a href="https://www.youtube.com/@Abdurahmon_12" target="_blank">
           Youtube
         </a>{" "}
         |
-        <a href="https://www.github.com/akhrorsoliev" target="_blank">
+        <a href="https://github.com/tabdurahmon" target="_blank">
           Github
         </a>
       </footer>

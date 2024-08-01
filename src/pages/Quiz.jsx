@@ -15,7 +15,7 @@ function Quiz() {
     isPending,
     error,
   } = useFetch(
-    `https://online-json-server-api.up.railway.app/project/66589e8316aab5687eae3b28/quizzes?title=${title}`
+    `https://online-json-server-api.up.railway.app/project/66abc6c11d2cd3eb1145e543/quizzes?title=${title}`
   );
 
   useEffect(() => {
